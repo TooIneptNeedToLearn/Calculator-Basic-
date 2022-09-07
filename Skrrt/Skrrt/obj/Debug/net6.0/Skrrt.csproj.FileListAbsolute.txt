@@ -1,0 +1,15 @@
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\bin\Debug\net6.0\Skrrt.exe
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\bin\Debug\net6.0\Skrrt.deps.json
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\bin\Debug\net6.0\Skrrt.runtimeconfig.json
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\bin\Debug\net6.0\Skrrt.dll
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\bin\Debug\net6.0\Skrrt.pdb
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.csproj.AssemblyReference.cache
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.AssemblyInfoInputs.cache
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.AssemblyInfo.cs
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.csproj.CoreCompileInputs.cache
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.dll
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\refint\Skrrt.dll
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.pdb
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\Skrrt.genruntimeconfig.cache
+C:\Users\MoltenCore\source\repos\Skrrt\Skrrt\obj\Debug\net6.0\ref\Skrrt.dll
